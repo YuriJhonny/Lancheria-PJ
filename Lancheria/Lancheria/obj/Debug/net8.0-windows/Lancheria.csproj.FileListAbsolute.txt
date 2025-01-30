@@ -1,0 +1,16 @@
+C:\Users\cromi\source\repos\Lancheria\Lancheria\bin\Debug\net8.0-windows\Lancheria.exe
+C:\Users\cromi\source\repos\Lancheria\Lancheria\bin\Debug\net8.0-windows\Lancheria.deps.json
+C:\Users\cromi\source\repos\Lancheria\Lancheria\bin\Debug\net8.0-windows\Lancheria.runtimeconfig.json
+C:\Users\cromi\source\repos\Lancheria\Lancheria\bin\Debug\net8.0-windows\Lancheria.dll
+C:\Users\cromi\source\repos\Lancheria\Lancheria\bin\Debug\net8.0-windows\Lancheria.pdb
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.Form1.resources
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.csproj.GenerateResource.cache
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.AssemblyInfoInputs.cache
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.AssemblyInfo.cs
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.csproj.CoreCompileInputs.cache
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.dll
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\refint\Lancheria.dll
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.pdb
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\Lancheria.genruntimeconfig.cache
+C:\Users\cromi\source\repos\Lancheria\Lancheria\obj\Debug\net8.0-windows\ref\Lancheria.dll
