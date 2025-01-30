@@ -1,0 +1,11 @@
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\bin\Debug\Lancheria.Tela.de.Net.exe.config
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\bin\Debug\Lancheria.Tela.de.Net.exe
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\bin\Debug\Lancheria.Tela.de.Net.pdb
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.csproj.AssemblyReference.cache
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.Form1.resources
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.Properties.Resources.resources
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.csproj.GenerateResource.cache
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.csproj.CoreCompileInputs.cache
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.exe
+C:\Users\EMILIANODELIMAMOLINA\Source\Repos\Lancheria-PJ\Lancheria.Tela.de.Net\Lancheria.Tela.de.Net\obj\Debug\Lancheria.Tela.de.Net.pdb
