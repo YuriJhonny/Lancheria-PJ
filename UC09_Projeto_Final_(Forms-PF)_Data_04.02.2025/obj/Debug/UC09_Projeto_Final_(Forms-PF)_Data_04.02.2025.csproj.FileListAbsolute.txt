@@ -1,0 +1,6 @@
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025.csproj.AssemblyReference.cache
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final__Forms_PF__Data_04._02._2025.frmFormsPf.resources
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final__Forms_PF__Data_04._02._2025.Properties.Resources.resources
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025.csproj.GenerateResource.cache
+C:\Users\EMILIANODELIMAMOLINA\Documents\Forms-PF\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025\obj\Debug\UC09_Projeto_Final_(Forms-PF)_Data_04.02.2025.csproj.CoreCompileInputs.cache
